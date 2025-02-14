@@ -1,2 +1,5 @@
 Estas son algunas notas de ejemplo.
 Este archivo será subido a GitHub.
+Estas son algunas notas de ejemplo.
+Este archivo será subido a GitHub.
+Agregué más contenido a este archivo.
